@@ -1,0 +1,5 @@
+- nima uchun yangi featurelar model performance ni oshiradi?
+- feature engineering jarayonda qaysi techniquelar ishlanadi?
+- feature creation uchun nimalar kerak buladi?
+- feature creation modelga qanday yordam beradi?
+- feature creation uchun nimalar kerak?

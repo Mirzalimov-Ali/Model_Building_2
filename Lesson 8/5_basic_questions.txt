@@ -1,0 +1,5 @@
+- feature engineering nima?
+- feature engineering nima uchun muhim?
+- feature creation ni qanday yol orqali bajaramiz?
+- nega feature creation qilamiz?
+- nima sababli model perfomance oshadi?
